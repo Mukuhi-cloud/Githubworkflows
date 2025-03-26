@@ -1,2 +1,2 @@
 print("Leah")
-print("mukuhi")
+print("mukuhi mukundi")
